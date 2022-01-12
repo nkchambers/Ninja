@@ -24,7 +24,7 @@ class Ninja {
 
 // Classes are a blueprint >>> create instance of an obj
 // ninja1 is a new instance of object with name Kakashi Hatake and health of 100
-const ninja1 = new Ninja("Kakashi Hatake", 100)
+const ninja1 = new Ninja("Naruto Uzumaki", 100)
 
 
 // Testing Ninja Class and Methods with Console
