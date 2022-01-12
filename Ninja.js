@@ -35,4 +35,3 @@ ninja1.drinkSake();
 ninja1.showStats();
 ninja1.drinkSake();
 console.log(ninja1);
-
